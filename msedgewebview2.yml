@@ -1,7 +1,7 @@
 title: msedgewebview2.exe Use As Proxy
 id: b772b0f4-79ff-40d6-b379-93caf5a8d183
 status: experimental
-description: "Detect instances where 'msedgewebview2.exe' is launched without sandboxing
+description: "Detect instances where 'msedgewebview2.exe' is launched without sandboxing"
 references:
     - https://lolbas-project.github.io/lolbas/Binaries/msedgewebview2/
 author: Nischal Khadgi
